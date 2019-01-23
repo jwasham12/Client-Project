@@ -1,0 +1,44 @@
+county,biomass,coal,hydroelectric,natural gas,nuclear,other,petroleum,solar
+alachua,1,1,0,3,0,0,0,2
+bay,2,0,0,1,0,0,0,0
+brevard,0,0,0,4,0,0,0,1
+broward,2,0,0,2,0,0,0,0
+charlotte,1,0,0,0,0,0,0,1
+citrus,0,1,0,0,0,0,0,0
+collier,1,0,0,0,0,0,0,0
+desoto,0,0,0,0,0,0,0,2
+duval,1,2,0,6,0,0,0,1
+escambia,2,1,0,2,0,0,0,0
+gadsden,0,0,1,0,0,0,0,0
+hamilton,0,0,0,0,0,1,0,0
+hardee,0,0,0,3,0,0,0,0
+hendry,1,0,0,0,0,0,0,0
+hernando,1,0,0,0,0,0,0,0
+highlands,0,0,0,1,0,0,0,0
+hillsborough,3,1,0,2,0,2,0,2
+jackson,1,0,0,0,0,0,0,0
+lake,1,0,0,2,0,0,0,0
+lee,1,0,0,1,0,0,0,0
+leon,0,0,1,1,0,0,0,0
+liberty,1,0,0,0,0,0,0,0
+manatee,1,0,0,1,0,0,1,1
+marion,1,0,0,0,0,0,0,0
+martin,0,1,0,1,0,0,0,0
+miami dade,3,0,0,1,1,0,0,1
+monroe,0,0,0,0,0,0,2,0
+nassau,2,0,0,1,0,0,0,0
+orange,1,1,0,3,0,0,0,2
+osceola,0,0,0,3,0,0,0,1
+palm beach,3,0,0,3,0,0,0,0
+pasco,1,0,0,3,0,0,0,0
+pinellas,1,0,0,2,0,0,1,1
+polk,1,0,0,11,0,3,1,5
+putnam,1,1,0,0,0,0,0,0
+santa rosa,0,0,0,2,0,0,0,0
+sarasota,1,0,0,0,0,0,0,0
+seminole,0,0,0,0,0,0,0,1
+st lucie,0,0,0,1,1,0,0,0
+suwannee,0,0,0,1,0,0,0,0
+taylor,1,0,0,0,0,0,0,1
+volusia,0,0,0,1,0,0,2,1
+wakulla,0,0,0,1,0,0,0,0

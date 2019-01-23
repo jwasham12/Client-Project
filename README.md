@@ -42,7 +42,7 @@ The code in the notebook can be used to return information within those categori
   * The 'radius' parameter can be a maximum of 40,000 meters (25 miles).  It is passed as - 'radius': 40000.
   * The maximum businesses the API will return in one search is 50.  The limit parameter is passed as - 'limit': 50.  If there are more than 50 businesses in a set of categories (as was the case in our health/medical and energy lifelines) than the offset parameter needs to be included the next time the code is run so that the second set of 50 businesses gets returned - 'offset': 50.  Each step throughout the entire process is further explained within the notebook.  We chose the city of Miami, Fl to demonstrate how the tool works.
 
-# Beyond the Deliverable -- Estimating Disaster impact
+# Beyond the Deliverable (Estimating Disaster impact)
 Regarding the second part of our problem statement - there was a problem using the data available on Yelp to quantify potential disaster impact.  Aside from being able to get a count of how many potential lifelines there isn't much else in the way of information.
 
 To go beyond the scope of Yelp to deliver disaster impact we sought information from the Florida Office of Economic and Demographic Research, the Florida Office of Insurance Regulation, and the Florida Hospital Association.  An example of additional data that these sources provided includes the following:
